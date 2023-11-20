@@ -26,6 +26,8 @@ Open the project in your preferred [IDE/engine].
 Build and run the game.
 Controls:
 
-Use the arrow keys to move your spaceship.
-Press [Space] to shoot.
+Use the arrow keys to move your spaceship Press [Space] to shoot.
 [Additional controls as needed].
+![Screenshot (35)](https://github.com/Onkar-Unde/SpaceShooter-Game/assets/111982938/bf553c42-0c9b-415a-9bd9-e0ea23b0b370)
+
+![Screenshot (34)](https://github.com/Onkar-Unde/SpaceShooter-Game/assets/111982938/bc29e54b-ca7d-4bbf-8f3f-1a74e57a9447)
