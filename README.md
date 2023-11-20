@@ -14,7 +14,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Onkar-Unde/space-shooter.git
+git clone https://github.com/Onkar-Unde/SpaceShooter-Game
 Navigate to the Project Directory:
 
 bash
