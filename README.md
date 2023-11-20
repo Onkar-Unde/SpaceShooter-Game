@@ -1,5 +1,5 @@
 # SpaceShooter-Game
-Welcome to the Space Shooter game, a classic arcade-style shooter set in outer space! This game is developed using [insert programming language/engine], and it's designed for enthusiasts who enjoy the thrill of blasting through waves of enemy spacecraft.
+Welcome to the Space Shooter game, a classic arcade-style shooter set in outer space! This game is developed using Html,Css,javaScript(quadtree) and it's designed for enthusiasts who enjoy the thrill of blasting through waves of enemy spacecraft.
 
 Features:
 
@@ -14,7 +14,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/space-shooter.git
+git clone https://github.com/Onkar-Unde/space-shooter.git
 Navigate to the Project Directory:
 
 bash
